@@ -1,0 +1,8 @@
+.env
+node_modules
+my-react-app
+package-lock.json
+.nyc_output/
+.env
+data
+data_test
